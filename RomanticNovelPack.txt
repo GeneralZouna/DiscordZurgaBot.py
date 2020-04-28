@@ -1,0 +1,179 @@
+#This is the pack that adds to the !novel command
+#write Role/Place/Fanta/Trait in front of the thing you want to add
+#example: Place Park
+#Lines with # will not be used
+#Role = Roles
+#Name = Names
+#Place = Places
+#Fanta = Fantasies
+#Trait = Traits
+
+Role nurse
+Role doctor
+Role student
+Role teacher
+Role profesor
+Role police officer
+Role writer
+Role master seductor
+Role mailman
+Role maid
+Role babysitter
+Role pizza delivery guy/girl
+Role burglar
+Role construction worker
+Role artist
+Role firefighter
+Role plumber
+Role boss
+Role hobo
+Role escort
+Role stranger
+Role love magnet
+Role romantic
+Role CEO
+Role furry
+Role captain
+Role hero
+Role serial murderer
+Role villain
+Role pirate
+Role pilot
+Role soldier
+Role führer
+Role teenager
+Role suicide bomber
+Role assassin
+Role God
+Role Satan
+Role Zeus
+
+
+
+Trait sexy
+Trait beautiful
+Trait handsome
+Trait creepy
+Trait masculine
+Trait feminine
+Trait mysterious
+Trait strong
+Trait clever
+Trait sly
+Trait funny
+Trait sad
+Trait crazy
+Trait delicious
+Trait hopeless
+Trait cute
+Trait crying
+Trait horny
+Trait delusional
+Trait drugged
+Trait drunk
+Trait manipulative
+Trait evil
+Trait abusive
+Trait innocent
+Trait naive
+Trait dramatic
+Trait weak
+Trait unstable 
+Trait impatient
+Trait insecure
+Trait foolish
+Trait dirty
+Trait introverted
+Trait extroverted
+
+
+
+Place bedroom
+Place city square
+Place church
+Place confession booth
+Place boat
+Place funeral
+Place theater
+Place classroom
+Place train station
+Place bus stop
+Place taxi
+Place kitchen
+Place livingroom
+Place bathroom
+Place hotel room
+Place closet
+Place park
+Place forest
+Place bush
+Place parent's bedroom
+Place attic
+Place sauna
+Place hut
+Place cabbin
+Place car
+Place van
+Place bus
+Place train
+Place pool
+Place lake
+Place basemant
+Place garden
+Place school
+Place dungeon
+Place office
+Place party
+Place bar
+Place heaven
+Place hell
+Place orphanage
+Place Vatican
+Place public toilet
+Place gorilla's enclosure
+
+
+
+Fanta love
+Fanta virgin
+Fanta rough
+Fanta romantic
+Fanta kinky
+Fanta feet fetish
+Fanta BDSM
+Fanta roleplay
+Fanta lustful
+Fanta crying
+Fanta wild
+Fanta bondage
+Fanta dream
+Fanta choking
+Fanta bisexual
+Fanta rape
+Fanta kidnap
+Fanta interspecies
+Fanta Voldemort
+Fanta golden shower
+Fanta ghost pirate
+Fanta voodoo doll
+Fanta glorious 
+Fanta ASMR
+Fanta wet
+Fanta intoxicated
+Fanta furry
+Fanta anti-vaxx
+Fanta anime
+Fanta Fanta
+Fanta mass murdering
+Fanta drunk
+Fanta Queen Elisabeth
+Fanta necrophilic
+Fanta vore
+Fanta tentacle
+Fanta disection
+Fanta furry
+Fanta cum stained
+Fanta incest
+Fanta suicide
+Fanta transgender
+Fanta foreskin

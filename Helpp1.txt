@@ -1,0 +1,14 @@
+```
+{0}battleship: generates classical battleship online link
+{0}ring <@mention>:	Buy a shiny ring for someone special (75 000$)
+{0}marry <@Husband> <@Wife> or {0}marry <your fiancé>: Marry that special someone (5.000$)
+{0}divorce <Person you're divorcing>: When the marriage didn't work out that well (5.000$)
+
+{0}about: If you're feeling curious about creators
+
+!settings role <Role ID>: set role that can change settings
+!settings nsfw true/false: toggle nsfw commands
+!settings furry true/false: toggle furry trigger
+!settings command <new command prefx>: If you want different command prefx
+
+```

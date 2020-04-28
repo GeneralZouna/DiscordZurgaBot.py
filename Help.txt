@@ -1,0 +1,42 @@
+```Commands so far:
+{0}help+: For less SFW commands
+{0}novel: Novel command
+{0}8ball <Your yes/no question>: 8ball command
+{0}badbot: Punish the bot
+{0}apologize <@mention>: Make bot apologize to someone
+{0}balance <@mention>: Check balance
+{0}pay <@mention> <amount>: Transfer money to someone
+{0}neko: Posts a neko (10$)
+{0}dice: Dice
+{0}compliment <@mention>: compliment someone
+{0}fact:	Random fact command
+{0}truth:	Truth from Truth or Dare
+{0}dare:	Dare from Truth or Dare
+{0}pickupLine:	Cheezy pickup line
+{0}cards <bet>:	Card game for easy money
+{0}reminder <time> <reminder>: Set a reminder
+{0}minesweeper:	Game of minesweeper (20$)
+{0}rob <@victim>: 50/50 chance of stealing or loosing 0-500$
+{0}text <wager> <@mention(s)>:	Compete against your friends who can write faster, and win money
+{0}ring <@mention>:	Buy a shiny ring for someone special (75 000$)
+{0}slot:	Slot machine (50$)
+{0}lovemeter <@someone>: How good you match with someone
+{0}a: Just screams random symbols at you
+{0}cat: It's a cat gif (10$)
+{0}dog: It's a dog gif (10$)
+{0}SCP: Random SCP(10)
+{0}poll <time> <poll>: Yes/No poll
+{0}mpoll <time(in min)> <number of options> <Poll text>: Multiple choice poll
+{0}battleship: generates classical battleship online link
+{0}pet: displays pet
+{0}pet feed: feeds pet
+{0}pet pet: pet your pet
+{0}pet play: play with your pet
+{0}pet rename <new_name>: rename your pet
+{0}pet medicine: Heals your pet back to 100% (1000$)
+{0}pet revive: Revives your pet if it dies (25000$)
+{0}pet kill: kills your pet (costs you your soul)
+
+
+{0}about: If you're feeling curious about creators
+```
